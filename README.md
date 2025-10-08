@@ -13,7 +13,7 @@ Integrantes: Taywan Francisco, Pedro Roberto
 Oque seria tipos de dados em NoSQL?
 Enquanto o SQL exige que você defina os tipos de dados rigidamente (como INT, VARCHAR, etc.), em bancos NoSQL, os dados são geralmente armazenados em forma de documentos, objetos ou pares "chave: valor”, Mesmo com essa flexibilidade, os dados ainda possuem tipos internos, que são importantes para garantir que o banco consiga organizar, filtrar, e fazer cálculos corretamente.
 
-FONTES:https://www.alura.com.br/artigos/banco-de-dados?srsltid=AfmBOoou21aI1XOEb2kZlmzzGkK5Z5n3mzWKdD7CalDePjDvsp6o8nUL
+FONTES: https://www.alura.com.br/artigos/banco-de-dados?srsltid=AfmBOoou21aI1XOEb2kZlmzzGkK5Z5n3mzWKdD7CalDePjDvsp6o8nUL
 
 
 • Tipos numéricos: Armazenam valores inteiros ou decimais. Normalmente servem para representar valores numéricos, como contagens, valores financeiros, medidas e etc.  
@@ -25,7 +25,7 @@ Aproximados: Usados para valores que não precisem de precisão exata, como resu
 Exemplos: REAL/FLOAT: Números de ponto flutuante
 DOUBLE PRECISION: Números de ponto flutuante com maior precisão
 
-FONTES:https://www.w3schools.com/sql/sql_datatypes.asp
+FONTES: https://www.w3schools.com/sql/sql_datatypes.asp
 https://www.devmedia.com.br/sql-server-comandos-basicos-objetos-tipos-de-dados-e-criacao-de-database/17052
 
 
@@ -57,7 +57,7 @@ Outros Exemplos de tipos de dados e suas funções:
  
  
 
-FONTES:https://www.rlsystem.com.br/tipos-dados-sql-server https://www.mco2.com.br/artigos/guia-completo-dos-tipos-de-dados-nosql-server.html
+FONTES: https://www.rlsystem.com.br/tipos-dados-sql-server https://www.mco2.com.br/artigos/guia-completo-dos-tipos-de-dados-nosql-server.html
 
 
 
